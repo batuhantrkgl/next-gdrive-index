@@ -8,7 +8,7 @@ module.exports = {
   client_secret:
     "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",
   refresh_token:
-    "1//04k3KOR2gN14-CgYIARAAGAQSNwF-L9IriWjvQF2q_jhPxOmNu4AJJqO5jZ5qWCLnobxQ5SlQYklD1vqNQMMPfWcK8JAfB8ezkbg"
+    "1//04k3KOR2gN14-CgYIARAAGAQSNwF-L9IriWjvQF2q_jhPxOmNu4AJJqO5jZ5qWCLnobxQ5SlQYklD1vqNQMMPfWcK8JAfB8ezkbg",
 
   files: {
     // How many files to show per page
